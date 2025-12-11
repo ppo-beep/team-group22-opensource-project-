@@ -8,7 +8,7 @@
 - Python 3.8 이상 권장
 - Transformers (Huggingface tokenizer 사용)
 
-> 아래 명령어를 통해 필요한 패키지를 한 번에 설치할 수 있습니다:
+> 아래 명령어를 통해 필요한 패키지를 설치할 수 있습니다:
 
 ```bash
 pip install -r requirements.txt
